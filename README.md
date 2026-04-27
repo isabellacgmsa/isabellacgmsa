@@ -24,7 +24,7 @@ Git · CI/CD · Metodologias Ágeis · Testes
 
 ---
 
-### ⚡ Sobre minha forma de trabalhar
+### Sobre minha forma de trabalhar
 
 * Penso em produto antes de código
 * Busco clareza, organização e qualidade nas entregas
