@@ -11,10 +11,10 @@ Atuo com mentalidade de produto — não apenas implementando funcionalidades, m
 ### Tecnologias e Ferramentas
 
 **Frontend:**
-React · Angular · TypeScript · JavaScript (ES6+) · HTML · CSS
+React · Next.js · Angular · Vue.js · TypeScript · JavaScript (ES6+) · HTML · CSS
 
 **Backend:**
-Node.js · Express · APIs REST · Autenticação · Modelagem de dados
+Node.js · NestJS · Express · C# · Python · APIs REST · Autenticação · Modelagem de dados
 
 **Dados & Infra:**
 PostgreSQL · MySQL · MongoDB · Docker · AWS (EC2, S3, RDS)
